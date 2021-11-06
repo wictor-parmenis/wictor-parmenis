@@ -1,4 +1,4 @@
-## 💜 Olá, meu nome é <strong>José Wictor!</strong>
+## Olá, meu nome é <strong>José Wictor!</strong>
 
 > Atualmente trabalho com o desenvolvimento de chatbots, API Restfull, e Front ends de sistemas internos corporativos.
 > Além de desenvolver sistemas, também gosto muito de estudar temas ligados à area, como por exemplo: micro-serviços, inglês, tendências tecnológicas e padrões de projetos :)
