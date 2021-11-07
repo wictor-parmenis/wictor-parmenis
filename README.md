@@ -6,7 +6,7 @@
 🔭 Atualmente trabalhando no desenvolvimento de uma API voltada para agendamento de serviços de saúde.
 
 💬 Gostaria de entrar em contato ? 
-Então, mande um email wictortec@gmail.com , ficarei feliz com seu contato :)
+Então, mande um email para wictortec@gmail.com , ficarei feliz com seu contato :)
 ----
 
 ## 🚀 Minhas Skills
