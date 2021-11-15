@@ -1,4 +1,4 @@
-## Olá, me chamo Wictor Gomes
+## Olá...
 
 > Atualmente trabalho com o desenvolvimento de chatbots, API Restful, e Front ends de sistemas internos corporativos.
 > Além de desenvolver sistemas, também gosto muito de estudar temas ligados à area, como por exemplo: micro-serviços, inglês, tendências tecnológicas e padrões de projetos :)
