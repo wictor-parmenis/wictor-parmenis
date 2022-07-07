@@ -23,4 +23,4 @@ Então, mande um email para wictortec@gmail.com , ficarei feliz com seu contato 
 ---
 
 ## ⭐ Informações sobre minha conta GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pmarcelojr&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wictor-parmenis&show_icons=true)
