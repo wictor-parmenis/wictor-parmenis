@@ -1,9 +1,9 @@
 ## Oi, tudo bem ?
 
-> Atualmente trabalho com o desenvolvimento de chatbots, API Restful, e Front ends de sistemas internos corporativos.
+> Atualmente trabalho com o desenvolvimento de sistemas de benefícios, API Restful, e Front ends de sistemas internos corporativos.
 > Além de desenvolver sistemas, também gosto muito de estudar temas ligados à area, como por exemplo: micro-serviços, inglês, tendências tecnológicas e padrões de projetos :)
 
-🔭 Atualmente trabalhando no desenvolvimento de uma API voltada para agendamento de serviços de saúde.
+🔭 Atualmente trabalhando na manutenção de sistemas voltados para beneficios flexíveis e crédito consignado.
 
 💬 Gostaria de entrar em contato ? 
 Então, mande um email para wictortec@gmail.com , ficarei feliz com seu contato :)
