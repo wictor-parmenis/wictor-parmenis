@@ -6,7 +6,7 @@
 🔭 Atualmente trabalhando na manutenção de sistemas voltados para beneficios flexíveis e crédito consignado.
 
 💬 Gostaria de entrar em contato ? 
-Então, mande um email para wictortec@gmail.com , ficarei feliz com seu contato :)
+Então, mande um email para wictortec@gmail.com .
 ----
 
 ## 🚀 Minhas Skills
