@@ -3,7 +3,7 @@
 > Atualmente trabalho com o desenvolvimento de sistemas de benefícios, API Restful, e Front ends de sistemas internos corporativos.
 > Além de desenvolver sistemas, também gosto muito de estudar temas ligados à area, como por exemplo: micro-serviços, inglês, tendências tecnológicas e padrões de projetos :)
 
-🔭 Atualmente trabalhando na manutenção de sistemas voltados para beneficios flexíveis e crédito consignado.
+🔭 Atualmente trabalhando na manutenção de sistemas voltados para crédito consignado e geração de holerite.
 
 💬 Gostaria de entrar em contato ? 
 Então, mande um email para wictortec@gmail.com .
